@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d85eb0c5-aec9-407e-af47-8d3768047a5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/electivas172.iml" afterPath="$PROJECT_DIR$/.idea/electivas182.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6307">
-              <caret line="371" column="55" lean-forward="false" selection-start-line="371" selection-start-column="55" selection-end-line="371" selection-end-column="55" />
+            <state relative-caret-position="310">
+              <caret line="347" column="9" lean-forward="false" selection-start-line="347" selection-start-column="9" selection-end-line="347" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -61,6 +58,7 @@
       <find>img</find>
       <find>herramientas</find>
       <find>181</find>
+      <find>1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,7 +235,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14055000" />
+    <option name="totallyTimeSpent" value="14086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -580,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6307">
-          <caret line="371" column="55" lean-forward="false" selection-start-line="371" selection-start-column="55" selection-end-line="371" selection-end-column="55" />
+        <state relative-caret-position="310">
+          <caret line="347" column="9" lean-forward="false" selection-start-line="347" selection-start-column="9" selection-end-line="347" selection-end-column="9" />
           <folding />
         </state>
       </provider>
